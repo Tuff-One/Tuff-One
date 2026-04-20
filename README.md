@@ -1,24 +1,32 @@
-# Hi 👋, I'm Atu
-
-## A passionate Software Developer from Namibia
-
-[**LINKEDIN**](https://linkedin.com/in/atuhe-kambonde)  
-[**INSTAGRAM**](https://instagram.com/a.t.u.h.e)  
+# 💫 About Me:
+Hi 👋, I'm Atu  
+A passionate Software Developer from Namibia 😎  
 
 ---
 
-### Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.t.u.h.e) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atuhe-kambonde) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atuhekambonde@gmail.com)
 
 ---
 
-### Featured Projects
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ballerina](https://img.shields.io/badge/ballerina-%23FF5000.svg?style=for-the-badge&logo=ballerina&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📌 Featured Projects
 
 | Project | Description | Repository |
 |---------|-------------|------------|
@@ -30,34 +38,38 @@
 
 ---
 
-# GitHub Stats
-
-## Atuhe's GitHub Stats
-
-![Atu's GitHub stats](https://github-readme-stats-phi-liart-70.vercel.app/api?username=Tuff-One&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tuff-One&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Tuff-One&theme=dark&hide_border=false)<br/>
 
 ---
 
-## Most Used Languages
+## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats-phi-liart-70.vercel.app/api/top-langs/?username=Tuff-One&layout=compact&theme=dark&count_private=true&langs_count=10)
-
----
-
-## Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tuff-One&theme=darkhub)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ballerina](https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge&logo=ballerina&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
-
-
-
+<sub>Note: Additional contributions exist in private academic and organizational repositories, which are not fully visible in these statistics.</sub>
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tuff-One&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
-### 🚀Word of the day
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-"*Eat. Sleep. Code. Repeat*" — Atuhe Kambonde
+---
+
+[![](https://komarev.com/ghpvc/?username=Tuff-One&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+### 🚀 Word of the Day
+"*Eat. Sleep. Code. Repeat*" — Atu
