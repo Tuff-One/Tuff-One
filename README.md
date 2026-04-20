@@ -4,6 +4,27 @@ A passionate Software Developer from Namibia 😎
 
 ---
 
+🚀 Building systems that are clean, scalable and production-ready  
+
+💡 Software Dev student at NUST focused on turning ideas into real, working software  
+
+🧠 Discipline-driven — committed to consistency, clarity of thought and strong execution  
+
+🛠️ Engineering full-stack applications and exploring DevOps to understand how systems are built, deployed and maintained end-to-end  
+
+📌 I value simplicity, structure and writing code that actually makes sense and not just code that works  
+
+🧰 Core: Java • SQL • Git • GitHub  
+
+🧩 Hands-on with: Java • HTML • CSS • JavaScript • MicrosoftSQL • MySQL • Android Studio  
+
+⚙️ Expanding into: React • Docker • CI/CD • Linux  
+
+🎯 Focus: building practical, well-structured projects that reflect real-world standards  
+
+📸 Outside of tech: traveling, gaming, journaling, music and creative direction  
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.t.u.h.e) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atuhe-kambonde) 
