@@ -30,32 +30,34 @@
 
 ---
 
-### GitHub Stats
+# GitHub Stats
 
-![Atu's GitHub stats](github-readme-stats-peqjund1q-tuff-one-2351s-projects.vercel.app)
+## Atuhe's GitHub Stats
 
-![Top Languages](github-readme-stats-peqjund1q-tuff-one-2351s-projects.vercel.app)
+![Atu's GitHub stats](https://github-readme-stats-phi-liart-70.vercel.app/api?username=Tuff-One&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ---
 
-### Trophies
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats-phi-liart-70.vercel.app/api/top-langs/?username=Tuff-One&layout=compact&theme=dark&count_private=true&langs_count=10)
+
+---
+
+## Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tuff-One&theme=darkhub)
 
----
 
-### Activity / Streaks
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tuff-One&theme=dark)
 
----
 
-### Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tuff-One&theme=github-dark)
 
 ---
 
-### Word of the day
+
+
+### 🚀Word of the day
 
 "*Eat. Sleep. Code. Repeat*" — Atuhe Kambonde
